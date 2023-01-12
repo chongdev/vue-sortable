@@ -28,6 +28,9 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    // https://sagalbot.github.io/vue-sortable/
+    // { src: '~/plugins/vue-sortable.js', mode: 'client' },
+    // '~/plugins/vue-sortable.js',
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
